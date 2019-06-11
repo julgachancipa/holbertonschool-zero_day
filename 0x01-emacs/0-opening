@@ -1,1 +1,1 @@
-emacsclient -t FILENAME 
+C-x C-f 
