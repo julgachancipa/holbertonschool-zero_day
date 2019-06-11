@@ -1,1 +1,1 @@
-emacs 
+emacsclient -t FILENAME 
