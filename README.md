@@ -5,7 +5,7 @@ I'm now a Holberton Student, this is my first repository as a full-stack enginee
 ## About Holberton
 
 <p>
-<img height="150" src="https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" align="right" >
+<img height="100" src="https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" align="right" >
 </p>
 
 Holberton teaches full-stack software engineering with a project-based approach.
