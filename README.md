@@ -4,12 +4,13 @@ I'm now a Holberton Student, this is my first repository as a full-stack enginee
 
 ## About Holberton
 
+<p>
+<img height="170" src="https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" align="right" >
+</p>
+
 Holberton teaches full-stack software engineering with a project-based approach.
 The first part of our on-site intensive education covers the foundations of software
 engineering, including low-level programming, DevOps, and high-level modern languages.
-<p>
-<img width="260" height="170" src="https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" align="right" >
-</p>
 
 ## Zero Day
 
