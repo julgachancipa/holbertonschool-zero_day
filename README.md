@@ -16,11 +16,11 @@ engineering, including low-level programming, DevOps, and high-level modern lang
 
 The purpose of this repository is to learn how to set up a working environment that a developer can use on a daily basis.
  - Configuration of a virtual machine with an operating system like Ubuntu.
-- Text editors like Emacs or Vim.
+- Text editors like Emacs or Vi.
 - Version control systems (Git)
 
 ## Contents
-- [0x00-vagrant](#0x00-vagrant)
-- [0x01-emacs](#0x01-emacs)
-- [0x02-vi](#0x02-vi)
-- [0x03-git](#0x03-git)
+- [0x00-vagrant](https://github.com/julgachancipa/holbertonschool-zero_day/tree/master/0x00-vagrant)
+- [0x01-emacs](https://github.com/julgachancipa/holbertonschool-zero_day/tree/master/0x01-emacs)
+- [0x02-vi](https://github.com/julgachancipa/holbertonschool-zero_day/tree/master/0x02-vi)
+- [0x03-git](https://github.com/julgachancipa/holbertonschool-zero_day/tree/master/0x03-git)
